@@ -1,6 +1,6 @@
 # Simple Proxy
 
-A lightweight reverse proxy designed to bypass CORS, powering [movie-web](https://movie-web.app). Full documentation at [docs.movie-web.app/proxy/introduction](https://docs.movie-web.app/proxy/introduction).
+A lightweight reverse proxy designed to bypass CORS, who use to power [movie-web](https://movie-web.app). Full documentation at [docs.movie-web.app/proxy/introduction](https://docs.movie-web.app/proxy/introduction).
 
 ## Features
 
